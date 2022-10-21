@@ -48,6 +48,7 @@ article header {
     height: 100px;
 }
 article section p {
+    margin-top: 1.5em;
     margin-bottom: 1.3em;
     line-height: 1em;
 }
