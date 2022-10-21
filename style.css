@@ -48,9 +48,11 @@ article header {
     height: 100px;
 }
 article section p {
-    margin-top: 1.5em;
     margin-bottom: 1.3em;
     line-height: 1em;
+}
+article section {
+    margin-top: 15%;
 }
 .centrovany {
     text-align: center;
