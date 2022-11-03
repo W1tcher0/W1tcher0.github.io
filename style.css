@@ -121,12 +121,13 @@ nav ul a:hover, .active a {
     border: 0;
 }
 footer {
+    bottom: auto;
     box-sizing: border-box;
     text-align: center;
-    height: 100px;
+    height: 50px;
     color: white;
     background: #414042;
-    padding: 50px 0 0 0;
+    padding: 17px 0 0 0;
 }
 footer a {
     color: white;
