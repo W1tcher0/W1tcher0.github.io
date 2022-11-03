@@ -127,7 +127,6 @@ footer {
     color: white;
     background: #414042;
     padding: 50px 0 0 0;
-    clip-path: polygon(0 30px, 100% 0, 100% 100%, 0 100%);
 }
 footer a {
     color: white;
@@ -141,4 +140,11 @@ footer a {
 }
 .cistic {
     clear: both;
+}
+@media screen and (max-width: 500px) {
+    .logo {
+        float: none;
+        display: block;
+        text-align: left;
+    }
 }
